@@ -1,4 +1,4 @@
-# Decompyle++ 
+# Decompyle++ .
 ***A Python Byte-code Disassembler/Decompiler***
 
 Decompyle++ aims to translate compiled Python byte-code back into valid
